@@ -21,7 +21,7 @@ title: Umbra Sphere
 }
 </style>
 
-![Screenshots](/screenshots.png)
+![Screenshots](/screenshots.webp)
 
 <div class="subtitle">
 

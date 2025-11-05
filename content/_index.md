@@ -27,9 +27,7 @@ title: Umbra Sphere
 
 Discover the world, with the power of [S²Geometry](http://s2geometry.io).
 
-<!--[![](https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us)](https://apps.apple.com/app/id6753129532)-->
-
-App Store launching coming soon, current available from [TestFlight](https://testflight.apple.com/join/PcmWvqUC).
+[![](https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us)](https://apps.apple.com/app/id6753129532)
 
 </div>
 

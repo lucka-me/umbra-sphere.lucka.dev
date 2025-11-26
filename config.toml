@@ -15,6 +15,7 @@ highlight_code = true
 favicon = "/app-icon-64@3x.png"
 menu = [
   { name = "Privacy", url = "/privacy", weight = 1 },
+  { name = "Contact", url = "/contact", weight = 2 },
 ]
 socials = []
 theme = "toggle"
